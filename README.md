@@ -3,7 +3,7 @@ A simple system for roleplaying games, using a single six-sided die (D6).
 
 ### Character Creation
 Each character gets 2 points to allocate into the following skills.
-Skills can be negative to gain additional points
+One skill can be made negative to gain an additional point, if desired.
 - **Will**: Convincing someone of something, avoiding being influenced (Charisma/Constitution)
 - **Thaumaturgy/Technology**: Depending on the setting, casting spells, identifying the properties of objects, or using unfamiliar devices (Intelligence/Wisdom)
 - **Force**: Feats of strength, attacking (Strength)
